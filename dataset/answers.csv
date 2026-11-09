@@ -1,0 +1,49 @@
+Question,Retrieved_Context,Answer
+Which Python framework enables developers to quickly build web applications for machine learning and LLM projects?,"through a web browser.  
+• To prepare the complete application for the final capstone project in Week 15.  
+Task Explanation 
+Most AI applications are deployed with graphical user interfaces so that end users can interact with them 
+easily. Streamlit is a Python framework that enables developers to quickly build web applications for 
+machine learning and LLM projects. 
+In this task, students will convert the PDF Question Answering System developed in Week 13 into an
+
+through a web browser.  
+• To prepare the complete application for the final capstone project in Week 15.  
+Task Explanation 
+Most AI applications are deployed with graphical user interfaces so that end users can interact with them 
+easily. Streamlit is a Python framework that enables developers to quickly build web applications for 
+machine learning and LLM projects. 
+In this task, students will convert the PDF Question Answering System developed in Week 13 into an
+
+on the web interface. 
+Display the response generation time for each 
+query. 
+Test the application with multiple user queries. Package the application with a professional 
+README and screenshots. 
+Run the application using streamlit run app.py. Submit the complete project folder with source 
+code and screenshots. 
+Week 15 – Mini LLM Capstone Project 
+Task Title 
+Developing an End-to-End Large Language Model (LLM) Application 
+Objective
+
+on the web interface. 
+Display the response generation time for each 
+query. 
+Test the application with multiple user queries. Package the application with a professional 
+README and screenshots. 
+Run the application using streamlit run app.py. Submit the complete project folder with source 
+code and screenshots. 
+Week 15 – Mini LLM Capstone Project 
+Task Title 
+Developing an End-to-End Large Language Model (LLM) Application 
+Objective
+
+documents.  
+• To deploy a fully functional web-based LLM application.  
+• To demonstrate software development, problem -solving, and documentation skills through a 
+capstone project.  
+Task Explanation 
+Throughout the previous fourteen weeks, students have learned every major component required to build 
+an LLM application —from text preprocessing and tokenization to embeddings, prompt engineering, 
+semantic search, Retrieval-Augmented Generation (RAG), and web deployment.",Streamlit
